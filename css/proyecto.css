@@ -1,0 +1,9 @@
+#nav-video-tab,#nav-foto-tab{
+    width: 50%;
+}
+.fas:hover{
+    color: #ff0000;
+}
+ #logo{
+   width: 200px;
+ }
